@@ -2,7 +2,7 @@ package tanda1;
 
 import tanda2.Consola;
 
-public class ejercicio2 {
+public class ejercicio2bis {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
